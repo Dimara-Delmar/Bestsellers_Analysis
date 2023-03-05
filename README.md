@@ -23,6 +23,6 @@ The team will be using Zoom calls and Slack as our primary source of communicati
 ## Database
 For our database, we will be performing an ETL on `bestsellers.csv`. 
 
-- Extracting the code from the original file after the data has been organized for use (`cleaned_best_sellers.csv`).
+- Extracting the code from the original file after the data has been organized for use (`cleaned_best_seller_code.csv`).
 - Transforming the data into three `.csv` files. (`authors.csv, booktype.csv, ranking.csv`).
 - Using SQL and PgAdmin to create a database to store our three tables and load the `.csv` files.
