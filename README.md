@@ -36,9 +36,7 @@ The dataframe created is based on the outline of this entity relationship diagra
 <img width="371" alt="bestsellers_schema" src="https://user-images.githubusercontent.com/108738297/224436152-8f96b44e-c3f0-47d0-9943-877725a6a610.png">
 
 ## Machine Learning Model
-For this project, we have decided to create a Classification model using BalancedRandomForestClassifier to determine if we could predict a book's eligibility of being on the NYT's Best Seller list based on the type of book it is. 
-
-To attempt this, we set our features to the columns: "published_date", "rank", "title", "author", "description", "price", "weeks_on_list". 
+For this project, we have decided to create a Classification model using BalancedRandomForestClassifier to determine if we could predict a book's eligibility of being on the NYT's Best Seller list based on the type of book it is (`bestsellers_classification.ipynb`). To attempt this, we set our features to the columns: "published_date", "rank", "title", "author", "description", "price", "weeks_on_list". 
 
 And we set our target to "book_type".
 
