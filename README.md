@@ -160,4 +160,5 @@ The second model can most accurately predict whether a book has lasted only a fe
 
 ## Presentation
 Hosted on Google Slides (Work in progress):
-https://docs.google.com/presentation/d/1dyjed3YYMClTXttfVzyAxq67QYXSy0ypOncNIw6f8_k/edit?usp=sharing
+https://docs.google.com/presentation/d/1dyjed3YYMClTXttfVzyAxq67QYXSy0ypOncNIw6f8_k/edit?usp=sharing 
+https://public.tableau.com/app/profile/aashutosh.pyakuryal/viz/BestsellersBreakdown/BestsellersBreakdown?publish=yes
