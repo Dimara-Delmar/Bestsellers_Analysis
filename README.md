@@ -158,7 +158,10 @@ Running the second machine learning model, we produced the following confusion m
 
 The second model can most accurately predict whether a book has lasted only a few weeks on the bestsellers list (0-4 weeks) or has lasted an exceptionally *long* time on the list (56-610 weeks). Its precision, accuracy, and recall scores for all the weeks in between have some room for improvement. Overall, binning the weeks into digestible categories has helped organize the data into distinct timeframes, so that the learning model did not need to process every integer in the ”weeks_on_list” category independently. 
 
+## Visualizations
+
+### [Link to Tableau](https://public.tableau.com/app/profile/aashutosh.pyakuryal/viz/BestsellersBreakdown/BestsellersBreakdown?publish=yes)
+
 ## Presentation
-Hosted on Google Slides (Work in progress):
-https://docs.google.com/presentation/d/1dyjed3YYMClTXttfVzyAxq67QYXSy0ypOncNIw6f8_k/edit?usp=sharing 
-https://public.tableau.com/app/profile/aashutosh.pyakuryal/viz/BestsellersBreakdown/BestsellersBreakdown?publish=yes
+
+### [Link to Google Slides](https://docs.google.com/presentation/d/1dyjed3YYMClTXttfVzyAxq67QYXSy0ypOncNIw6f8_k/edit?usp=sharing)
